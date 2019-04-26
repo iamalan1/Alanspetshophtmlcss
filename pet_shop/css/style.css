@@ -1,0 +1,56 @@
+
+
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  background-color: pink;
+  font-family: "Europa", sans-serif;
+  border: 5px solid black;
+  padding: 30px;
+  color: #4b009a;
+  margin-bottom: 60px;
+}
+
+h1:hover {
+  background-color: blue;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+display: block;
+margin: 0 auto;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+}
+div {
+  text-align: center;
+}
+
+.mammals {
+  color: red;
+  font-weight: bold;
+}
+
+.birds {
+ color: blue;
+ font-style: italic;
+}
+
+.fish {
+  color: orange;
+  text-decoration: underline;
+}
+
+#firstList {
+  background-color: lime;
+}
